@@ -67,7 +67,7 @@
             android:layout_centerInParent="true"
             android:foregroundGravity="center_vertical"
             android:minHeight="0dp"
-            app:tabBackground="@drawable/tab_selector"
+            app:tabBackground="@drawable/tab_indicator"
             app:tabGravity="center"
             app:tabIndicatorHeight="0dp" />
 
